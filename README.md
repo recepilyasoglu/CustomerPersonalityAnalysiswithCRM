@@ -1,4 +1,4 @@
-# CustomerPersonalityAnalysiswithCRM
+# Customer Personality Analysis with CRM Analysis
 
 ## About Dataset
 
